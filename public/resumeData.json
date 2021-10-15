@@ -1,0 +1,168 @@
+{
+  "main": {
+    "name": "Andy Zhou",
+    "occupation": "Full-Stack Developer",
+    "description": "",
+    "image": "crop5.jpg",
+    "bio": "Hi! I’m Andy — a CS undergraduate at CSU Long Beach. Equipped with skills in both front-end (React Framework) and back-end development (Node.js & Java), I offer a comprehensive suite of programming services. My computational thinking abilities allow me to confidently navigate complex coding and automation challenges. My experience spans front-end and back-end work across Ductra Creations LLC, RedApple Digital Health and Down. Always seeking new networking opportunities. Connect with me to discuss all things web development!",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "andy.lee.zhou@gmail.com",
+    "phone": "949-701-5280",
+    "address": {
+      "street": "",
+      "city": "Orange County",
+      "state": "California",
+      "zip": ""
+    },
+    "website": "http://www.andyzhou.net",
+    "resumedownload": "./resume_andyzhou.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/andy.zhou.96/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/andyleezhou",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andyleezhou/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/andyleezhou/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/andyleezhou",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "California State University, Long Beach",
+        "degree": "B.S. in Computer Science",
+        "graduated": "Expected: 2022",
+        "description": "Courses: CECS 329 Algorithims, CECS 274 Data Structures, CECS 277 Java, CECS 451 Artificial Intelligence, CECS 456 Machine Learning, CECS 229 Discrete Mathematics, CECS 282 C++"
+      },
+      {
+        "school": "Redwood Code Academy",
+        "degree": "Full-Stack Developer Certificate",
+        "graduated": "November 2019",
+        "description": "A 12 week full-stack programming bootcamp that covered Javascript, React.js, C#, MySQL, AWS, and Azure"
+      }
+    ],
+    "work": [
+      {
+        "company": "Down Friends Group",
+        "title": "Backend Developer",
+        "years": "June 2021 - Present",
+        "description": " - Developed automatically scaling Cloud functions for Firebase authentication that allowed users to register in a serverless approach",
+        "description2":" - Created API endpoints for user interaction on the mobile application that increased user traffic by 15%"
+      },
+      {
+        "company": "RedApple Digital Health",
+        "title": "Full-Stack Engineer",
+        "years": "Feb 2020 - April 2021",
+        "description": " - Maintained and managed auto-scaling groups, load balancers, and EC2 servers on AWS that led to a 26% decrease in CPU utilization",
+        "description2": " - Created many different API endpoints for user and Database querying using Express and Node.js",
+        "description3": " - Maintained a SDK for developing applications on multiple platforms",
+        "description4": " - Developed dynamic and interactive front-end web pages using React",
+        "description5": " - Maintained Mongo Atlas Database and connected it to AWS VPC to ensure network isolation and security"
+      },
+      {
+        "company": "RedApple Digital Health",
+        "title": "Web Developer Intern",
+        "years": "Dec 2019 - Feb 2020",
+        "description": " - Utilized React to create web pages capable of dynamic programming",
+        "description2":" - Helped maintain a SDK for developing applications on multiple different platforms",
+        "description3": "- Implemented and maintained AWS EC2 servers for the development and production environment"
+      },
+      {
+        "company": "Ductra Creations LLC",
+        "title": "Front-End Developer Intern",
+        "years": "Jul 2019 - Dec 2019",
+        "description": " - Designed UI and implemented a web notification application for B2B interactions"
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "C#",
+        "level": "40%"
+      },
+      {
+        "name": "C++",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Solar Excursions",
+        "category": "Travel Guide for the Final Frontier",
+        "image": "lunarAdventures.jpg",
+        "url": "https://andyleezhou.github.io/SolarExcursions/"
+      },
+      {
+        "title": "Weather API",
+        "category": "When the Weather App Isn't Enough",
+        "image": "weather.png",
+        "url": "https://andyleezhou.github.io/WeatherAPI/"
+      },
+      {
+        "title": "Scratch",
+        "category": "Note taking for all!",
+        "image": "scratch.jpg",
+        "url": "http://d2qtfgxzoeuy1b.cloudfront.net/"
+      },
+      {
+        "title": "Chess",
+        "category": "Try out the Queen's Gambit",
+        "image": "chess.jpg",
+        "url": "https://andyleezhou.github.io/ChessGame/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
